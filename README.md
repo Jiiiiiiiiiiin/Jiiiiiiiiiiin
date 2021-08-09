@@ -32,4 +32,4 @@ print(a)
 
 
 
-![ㅇㅇ](C:/Users/%EC%82%AC%EC%A7%84/%EA%B0%80%EC%A1%B1/IMG_5178.JPG)
+![ㅇㅇ](md-images/IMG_5178.JPG)
